@@ -1,0 +1,18 @@
+C:\Users\ASUS\AppData\Local\Temporary Projects\Library Dashboard\bin\Debug\Library Dashboard.exe.config
+D:\Semua Projek VB.Net\Library Dashboard Project\Library Dashboard\Library Dashboard\bin\Debug\Library Dashboard.exe.config
+D:\Semua Projek VB.Net\Library Dashboard Project\Library Dashboard\Library Dashboard\bin\Debug\Library Dashboard.exe
+D:\Semua Projek VB.Net\Library Dashboard Project\Library Dashboard\Library Dashboard\bin\Debug\Library Dashboard.pdb
+D:\Semua Projek VB.Net\Library Dashboard Project\Library Dashboard\Library Dashboard\bin\Debug\Library Dashboard.xml
+D:\Semua Projek VB.Net\Library Dashboard Project\Library Dashboard\Library Dashboard\bin\Debug\Guna.UI.dll
+D:\Semua Projek VB.Net\Library Dashboard Project\Library Dashboard\Library Dashboard\obj\Debug\Library_Dashboard.Login.resources
+D:\Semua Projek VB.Net\Library Dashboard Project\Library Dashboard\Library Dashboard\obj\Debug\Library_Dashboard.Resources.resources
+D:\Semua Projek VB.Net\Library Dashboard Project\Library Dashboard\Library Dashboard\obj\Debug\Library Dashboard.vbproj.GenerateResource.Cache
+D:\Semua Projek VB.Net\Library Dashboard Project\Library Dashboard\Library Dashboard\obj\Debug\Library Dashboard.exe
+D:\Semua Projek VB.Net\Library Dashboard Project\Library Dashboard\Library Dashboard\obj\Debug\Library Dashboard.xml
+D:\Semua Projek VB.Net\Library Dashboard Project\Library Dashboard\Library Dashboard\obj\Debug\Library Dashboard.pdb
+D:\Semua Projek VB.Net\Library Dashboard Project\Library Dashboard\Library Dashboard\obj\Debug\Library_Dashboard.Register.resources
+D:\Semua Projek VB.Net\Library Dashboard Project\Library Dashboard\Library Dashboard\obj\Debug\Library Dashboard.vbprojResolveAssemblyReference.cache
+D:\Semua Projek VB.Net\Library Dashboard Project\Library Dashboard\Library Dashboard\obj\Debug\Library_Dashboard.Menu_Utama.resources
+D:\Semua Projek VB.Net\Library Dashboard Project\Library Dashboard\Library Dashboard\obj\Debug\Library_Dashboard.Struk_Peminjaman.resources
+D:\Semua Projek VB.Net\Library Dashboard Project\Library Dashboard\Library Dashboard\obj\Debug\Library_Dashboard.Struk_Pengembalian.resources
+D:\Semua Projek VB.Net\Library Dashboard Project\Library Dashboard\Library Dashboard\obj\Debug\Library_Dashboard.Hello.resources
