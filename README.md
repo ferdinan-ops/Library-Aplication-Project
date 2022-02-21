@@ -1,6 +1,6 @@
-# Library Application
+# Library Dashboard Application
 Hi!👋
-<p>This is my Library Application project that i made use visual basic. I know visual basic is easy programing language but with this language i can make many project. This project is library application on dashboard mode.</p>
+<p>This is my Library Dashboard Application project that i made use visual basic. I know visual basic is easy programing language but with this language i can make many project. This project is library application on dashboard mode.</p>
 
 <h2>What I Used</h2>
 <ol>
