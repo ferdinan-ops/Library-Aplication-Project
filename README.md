@@ -19,3 +19,4 @@ Hi!👋
 ![Laporan](https://user-images.githubusercontent.com/84588706/155064340-29ace1d9-f7f6-47af-aba7-e81c98a80f0a.jpg)
 ![Lainnya](https://user-images.githubusercontent.com/84588706/155064428-d63bf4cb-bcfe-42ed-b77d-f0a7454cf76e.jpg)
 ![Tentang Aplikasi](https://user-images.githubusercontent.com/84588706/155064497-facae81e-9e7d-494f-b2ca-673cf2d5caa0.jpg)
+![Data Master](https://user-images.githubusercontent.com/84588706/155257673-bdeae0e9-fe81-4f46-89d7-f9bafec74dc4.jpg)
