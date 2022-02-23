@@ -13,6 +13,7 @@ Hi!👋
 </ol>
 
 # Screenshoots
+![Wellcome](https://user-images.githubusercontent.com/84588706/155258023-1817f5b4-212c-4bb4-b9d6-4509eae31650.jpg)
 ![Dashboard](https://user-images.githubusercontent.com/84588706/154891373-bebc3e02-c94e-4467-8bef-6c8238aeafad.jpg)
 ![Data Master](https://user-images.githubusercontent.com/84588706/155064221-705deb37-5a31-401e-a2aa-9cf51ec9891d.jpg)
 ![Transaksi](https://user-images.githubusercontent.com/84588706/155064598-22a77d39-7cc6-4c71-bc2b-d0821f09ec88.jpg)
