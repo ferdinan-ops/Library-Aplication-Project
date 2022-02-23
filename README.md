@@ -19,6 +19,5 @@ Hi!👋
 ![Laporan](https://user-images.githubusercontent.com/84588706/155064340-29ace1d9-f7f6-47af-aba7-e81c98a80f0a.jpg)
 ![Lainnya](https://user-images.githubusercontent.com/84588706/155064428-d63bf4cb-bcfe-42ed-b77d-f0a7454cf76e.jpg)
 ![Tentang Aplikasi](https://user-images.githubusercontent.com/84588706/155064497-facae81e-9e7d-494f-b2ca-673cf2d5caa0.jpg)
-![Data Master](https://user-images.githubusercontent.com/84588706/155257673-bdeae0e9-fe81-4f46-89d7-f9bafec74dc4.jpg)
 ![Data User](https://user-images.githubusercontent.com/84588706/155257697-a9abcf23-7d21-4bac-8bf5-9bc959d8ed8a.jpg)
 ![Input Data Buku](https://user-images.githubusercontent.com/84588706/155257714-a1712781-5756-4631-a109-cc2e310ce4a4.jpg)
