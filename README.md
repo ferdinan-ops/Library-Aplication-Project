@@ -14,13 +14,23 @@ Hi!👋
 
 # Screenshoots
 ![Wellcome](https://user-images.githubusercontent.com/84588706/155258023-1817f5b4-212c-4bb4-b9d6-4509eae31650.jpg)
+
 ![Dashboard](https://user-images.githubusercontent.com/84588706/154891373-bebc3e02-c94e-4467-8bef-6c8238aeafad.jpg)
+
 ![Data Master](https://user-images.githubusercontent.com/84588706/155064221-705deb37-5a31-401e-a2aa-9cf51ec9891d.jpg)
+
 ![Transaksi](https://user-images.githubusercontent.com/84588706/155064598-22a77d39-7cc6-4c71-bc2b-d0821f09ec88.jpg)
+
 ![Laporan](https://user-images.githubusercontent.com/84588706/155064340-29ace1d9-f7f6-47af-aba7-e81c98a80f0a.jpg)
+
 ![Lainnya](https://user-images.githubusercontent.com/84588706/155064428-d63bf4cb-bcfe-42ed-b77d-f0a7454cf76e.jpg)
+
 ![Tentang Aplikasi](https://user-images.githubusercontent.com/84588706/155064497-facae81e-9e7d-494f-b2ca-673cf2d5caa0.jpg)
+
 ![Data User](https://user-images.githubusercontent.com/84588706/155257697-a9abcf23-7d21-4bac-8bf5-9bc959d8ed8a.jpg)
+
 ![Input Data Buku](https://user-images.githubusercontent.com/84588706/155257714-a1712781-5756-4631-a109-cc2e310ce4a4.jpg)
+
 ![Login](https://user-images.githubusercontent.com/84588706/155257891-d3d0fe30-1344-4359-9753-492fe9b99f14.jpg)
+
 ![Register](https://user-images.githubusercontent.com/84588706/155257980-ca6e22ca-3e9f-4d65-a3a3-effe76e1c712.jpg)
