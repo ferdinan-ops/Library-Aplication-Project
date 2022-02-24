@@ -19,8 +19,8 @@ Hi!👋
     <img src="https://user-images.githubusercontent.com/84588706/155257891-d3d0fe30-1344-4359-9753-492fe9b99f14.jpg">
   </li>
   <li>
-    <h3></h3>
-    <img src="">
+    <h3>Register</h3>
+    <img src="https://user-images.githubusercontent.com/84588706/155257980-ca6e22ca-3e9f-4d65-a3a3-effe76e1c712.jpg">
   </li>
   <li>
     <h3></h3>
@@ -80,4 +80,4 @@ Hi!👋
 
 ![Login]()
 
-![Register](https://user-images.githubusercontent.com/84588706/155257980-ca6e22ca-3e9f-4d65-a3a3-effe76e1c712.jpg)
+![Register]()
