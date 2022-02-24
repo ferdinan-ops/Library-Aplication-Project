@@ -23,8 +23,8 @@ Hi!👋
     <img src="https://user-images.githubusercontent.com/84588706/155257980-ca6e22ca-3e9f-4d65-a3a3-effe76e1c712.jpg">
   </li>
   <li>
-    <h3></h3>
-    <img src="">
+    <h3>Home</h3>
+    <img src="https://user-images.githubusercontent.com/84588706/155258023-1817f5b4-212c-4bb4-b9d6-4509eae31650.jpg">
   </li>
   <li>
     <h3></h3>
@@ -60,7 +60,7 @@ Hi!👋
   </li>
 </ol>
 
-![Wellcome](https://user-images.githubusercontent.com/84588706/155258023-1817f5b4-212c-4bb4-b9d6-4509eae31650.jpg)
+![Wellcome]()
 
 ![Dashboard](https://user-images.githubusercontent.com/84588706/154891373-bebc3e02-c94e-4467-8bef-6c8238aeafad.jpg)
 
