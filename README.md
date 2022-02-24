@@ -26,7 +26,7 @@ Hi!👋
     <h3>Home</h3>
     <img src="https://user-images.githubusercontent.com/84588706/155258023-1817f5b4-212c-4bb4-b9d6-4509eae31650.jpg">
   </li>
-  <li>
+<!--  <li>
     <h3></h3>
     <img src="">
   </li>
@@ -57,7 +57,7 @@ Hi!👋
   <li>
     <h3></h3>
     <img src="">
-  </li>
+  </li> -->
 </ol>
 
 ![Wellcome]()
