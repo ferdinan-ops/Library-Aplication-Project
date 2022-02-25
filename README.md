@@ -27,12 +27,12 @@ Hi!👋
     <img src="https://user-images.githubusercontent.com/84588706/155258023-1817f5b4-212c-4bb4-b9d6-4509eae31650.jpg">
   </li>
 <!--  <li>
-    <h3></h3>
-    <img src="">
+    <h3>Dashboard</h3>
+    <img src="https://user-images.githubusercontent.com/84588706/154891373-bebc3e02-c94e-4467-8bef-6c8238aeafad.jpg">
   </li>
   <li>
-    <h3></h3>
-    <img src="">
+    <h3>Data Master</h3>
+    <img src="https://user-images.githubusercontent.com/84588706/155064221-705deb37-5a31-401e-a2aa-9cf51ec9891d.jpg">
   </li>
   <li>
     <h3></h3>
@@ -60,12 +60,6 @@ Hi!👋
   </li> -->
 </ol>
 
-![Wellcome]()
-
-![Dashboard](https://user-images.githubusercontent.com/84588706/154891373-bebc3e02-c94e-4467-8bef-6c8238aeafad.jpg)
-
-![Data Master](https://user-images.githubusercontent.com/84588706/155064221-705deb37-5a31-401e-a2aa-9cf51ec9891d.jpg)
-
 ![Transaksi](https://user-images.githubusercontent.com/84588706/155064598-22a77d39-7cc6-4c71-bc2b-d0821f09ec88.jpg)
 
 ![Laporan](https://user-images.githubusercontent.com/84588706/155064340-29ace1d9-f7f6-47af-aba7-e81c98a80f0a.jpg)
@@ -78,6 +72,3 @@ Hi!👋
 
 ![Input Data Buku](https://user-images.githubusercontent.com/84588706/155257714-a1712781-5756-4631-a109-cc2e310ce4a4.jpg)
 
-![Login]()
-
-![Register]()
