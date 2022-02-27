@@ -59,16 +59,3 @@ Hi!👋
     <img src="https://user-images.githubusercontent.com/84588706/155257714-a1712781-5756-4631-a109-cc2e310ce4a4.jpg">
   </li> -->
 </ol>
-
-![Transaksi]()
-
-![Laporan]()
-
-![Lainnya]()
-
-![Tentang Aplikasi]()
-
-![Data User]()
-
-![Input Data Buku]()
-
