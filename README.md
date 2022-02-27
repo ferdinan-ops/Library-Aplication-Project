@@ -34,10 +34,10 @@ Hi!👋
     <h3>Data Master</h3>
     <img src="https://user-images.githubusercontent.com/84588706/155064221-705deb37-5a31-401e-a2aa-9cf51ec9891d.jpg">
   </li>
- <!-- <li>
+  <li>
     <h3>Transaksi</h3>
     <img src="https://user-images.githubusercontent.com/84588706/155064598-22a77d39-7cc6-4c71-bc2b-d0821f09ec88.jpg">
-  </li>
+ <!-- </li>
   <li>
     <h3>Laporan</h3>
     <img src="https://user-images.githubusercontent.com/84588706/155064340-29ace1d9-f7f6-47af-aba7-e81c98a80f0a.jpg">
