@@ -50,7 +50,7 @@ Hi!👋
     <h3>Tentang Aplikasi</h3>
     <img src="https://user-images.githubusercontent.com/84588706/155064497-facae81e-9e7d-494f-b2ca-673cf2d5caa0.jpg">
   </li>
-  <!--<li>
+  <li>
     <h3>Data User</h3>
     <img src="https://user-images.githubusercontent.com/84588706/155257697-a9abcf23-7d21-4bac-8bf5-9bc959d8ed8a.jpg">
   </li>
