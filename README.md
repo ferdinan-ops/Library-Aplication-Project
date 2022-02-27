@@ -37,12 +37,12 @@ Hi!👋
   <li>
     <h3>Transaksi</h3>
     <img src="https://user-images.githubusercontent.com/84588706/155064598-22a77d39-7cc6-4c71-bc2b-d0821f09ec88.jpg">
- <!-- </li>
+  </li>
   <li>
     <h3>Laporan</h3>
     <img src="https://user-images.githubusercontent.com/84588706/155064340-29ace1d9-f7f6-47af-aba7-e81c98a80f0a.jpg">
   </li>
-  <li>
+  <!--<li>
     <h3>Lainnya</h3>
     <img src="https://user-images.githubusercontent.com/84588706/155064428-d63bf4cb-bcfe-42ed-b77d-f0a7454cf76e.jpg">
   </li>
