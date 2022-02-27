@@ -42,11 +42,11 @@ Hi!👋
     <h3>Laporan</h3>
     <img src="https://user-images.githubusercontent.com/84588706/155064340-29ace1d9-f7f6-47af-aba7-e81c98a80f0a.jpg">
   </li>
-  <!--<li>
+  <li>
     <h3>Lainnya</h3>
     <img src="https://user-images.githubusercontent.com/84588706/155064428-d63bf4cb-bcfe-42ed-b77d-f0a7454cf76e.jpg">
   </li>
-  <li>
+  <!--<li>
     <h3>Tentang Aplikasi</h3>
     <img src="https://user-images.githubusercontent.com/84588706/155064497-facae81e-9e7d-494f-b2ca-673cf2d5caa0.jpg">
   </li>
