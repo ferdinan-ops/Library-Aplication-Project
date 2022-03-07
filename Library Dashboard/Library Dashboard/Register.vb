@@ -25,7 +25,7 @@ Public Class Register
         Call otomatis()
     End Sub
 
-    Private Sub BtRegister_Click(sender As Object, e As EventArgs) Handles BtRegister.Click
+    Private Sub BtRegister_Click(sender As Object, e As EventArgs)
         If nama.Text = "" Or username.Text = "" Or password.Text = "" Or level.Text = "" Then
             MsgBox("Pastikan Semua Data Terisi !!")
         Else

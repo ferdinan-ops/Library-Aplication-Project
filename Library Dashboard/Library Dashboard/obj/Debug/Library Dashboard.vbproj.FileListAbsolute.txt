@@ -16,3 +16,4 @@ D:\Semua Projek VB.Net\Library Dashboard Project\Library Dashboard\Library Dashb
 D:\Semua Projek VB.Net\Library Dashboard Project\Library Dashboard\Library Dashboard\obj\Debug\Library_Dashboard.Struk_Peminjaman.resources
 D:\Semua Projek VB.Net\Library Dashboard Project\Library Dashboard\Library Dashboard\obj\Debug\Library_Dashboard.Struk_Pengembalian.resources
 D:\Semua Projek VB.Net\Library Dashboard Project\Library Dashboard\Library Dashboard\obj\Debug\Library_Dashboard.Hello.resources
+D:\Semua Projek VB.Net\Library Dashboard Project\Library Dashboard\Library Dashboard\obj\Debug\Library_Dashboard.coba.resources

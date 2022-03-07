@@ -82,6 +82,12 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="coba.Designer.vb">
+      <DependentUpon>coba.vb</DependentUpon>
+    </Compile>
+    <Compile Include="coba.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Hello.Designer.vb">
       <DependentUpon>Hello.vb</DependentUpon>
     </Compile>
@@ -161,6 +167,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="coba.resx">
+      <DependentUpon>coba.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Hello.resx">
       <DependentUpon>Hello.vb</DependentUpon>
     </EmbeddedResource>
